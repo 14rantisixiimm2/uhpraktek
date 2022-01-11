@@ -1,0 +1,134 @@
+body {
+    font-family: "Arial";
+    background-color: darkgray;
+}
+li{
+    list-style: none;
+    
+}
+.header{
+    background-color: blueviolet;
+    color: #fff;
+    height: 50px;
+    padding: 20px 20px;
+}
+.header2{
+    background-color: magenta;
+    color:darkblue;
+    margin-top: 20px;
+    height:90px;
+    padding: 5px 5px;
+}
+.logo1 img{
+    float: left;
+    border:5px solid blue;
+    border-radius:10px;
+    display:block;
+    width: 80px;
+    height: 80px;
+
+}
+.logo2{
+	border:5px solid blue;
+    float:right;
+    font-size: 30px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: darkgrey;
+    color: red;
+}
+.header-list li{
+   float: left;
+  padding: 20px 40px;
+  border: 4px #2980B9;
+  margin-left: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  display: block;
+  background-color: red;
+  font-size: 13px;
+  color: #fff;
+}
+.header2 li:hover {
+  background-color: rgb(240, 32, 32); 
+  font-size:25px;
+  color:rgb(255, 255, 255);
+}
+.copy-container{
+  background-color: #fff;
+}
+.contents{
+  height: 150px;
+  margin-top: 20px;
+  background-color : white ;
+}
+.contents p{
+  text-align: center;
+  font-size: 14px;
+}
+.contents-item{
+ float:left;
+ padding-left: 80px;
+ text-align: center;
+}
+.contents h3{
+  padding-left: 10px;
+}
+.contents2{
+  margin-top: 20px;
+ background-color : white ;
+ height:650px;
+ padding: 15px 15px;
+}
+.contents2 h3{
+  color:red;
+}
+.contents-item2{
+  float: left;
+  margin-right: 100px;
+}
+.contents-item2 p{
+  text-align: center;
+  border:2px solid blue;
+border-radius:25px;
+background-color:rgb(240, 85, 38);
+color:rgb(0, 0, 0);
+}
+.section-title{
+  background-color:rgb(255, 255, 255);
+  padding-top:300px;
+}
+.section-title h3{
+  padding-left: 20px;
+}
+.section-title p{
+  padding-left: 10px;
+}
+
+
+
+.footer {
+        background-color: #a31cf1;
+        height: 100px;
+        color: #fff;
+        padding: 40px;
+  }
+  
+  .footer-logo {
+    font-size: 50px;
+    float: left;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list2 {
+    text-align: center;
+	color: 	#FFD700;
+  font-size: 20px;
+  }
+  
+  .footer-list li { 
+    padding-bottom: 20px; 
+  }
